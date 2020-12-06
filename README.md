@@ -28,11 +28,11 @@ Cartridge supported :
     
 How to use it :
 -----
--Check if your game is compatible ( see compatibility list )
--Pad it to 32Mb with the tools if needed
--Flash your SOP44 memory with the file
--Solder the flash
--Enjoy :)
+-Check if your game is compatible ( see compatibility list ).
+-Pad it to 32Mb with the tools if needed.
+-Flash your SOP44 memory with the file.
+-Solder the flash.
+-Enjoy :).
 
 Where to buy it :
 -----
