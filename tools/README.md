@@ -1,36 +1,17 @@
-# WonderSwan-Classic
-Open Source PCB clone of WonderSwan PTE-0012A
+# Wonder4096 padder tools
+A simple tools for padd the rom to fill the memory
 
-![Swan_pcb](https://github.com/X-death25/X-Flash/blob/main/gfx/1607079401089.JPEG)
-
-What is it ?
+How to use it ?
 -----
 
-This is a clone of classic Wonderswan PCB.
-It can be used for developpement or to clone compatible games / Homeberew.
+Just drag a .ws or .wsc file on the executable 
+You will have a 32Mb ready to flash file.
 
 Product Feature :
 -----
 
-    Support ROM up to 32Mb 
-    CPLD clone of Bandai 2001
-    Can be Rewritable with third party adapter ( Sanni Cart Reaer or your own flasher )
-    Open Source Hardware & PCB
-
-Cartridge supported :
------
+    Drag & drop no command line
+    Auto detection classic / color
     
-    Classic 32Mb cartridge ( no RAM  )
-    No EEPROM support Yet   
-    
-How to use it :
------
--Check if your game is compatible ( see compatibility list )
--Pad it to 32Mb with the tools if needed
--Flash your SOP44 memory with the file
--Solder the flash
--Enjoy :)
 
-Where to buy it :
------
-You can build it your self or buy me a ready to use cartridge
+
