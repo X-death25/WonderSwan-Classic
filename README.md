@@ -18,7 +18,6 @@ Product Feature :
     Support ROM up to 32Mb 
     CPLD clone of Bandai 2001 based on famous EPM240T100C5
     Can be Rewritable with third party adapter ( Sanni Cart Reaer or your own flasher )
-    Open Source Hardware & PCB
 
 Cartridge supported :
 -----
@@ -28,10 +27,14 @@ Cartridge supported :
     
 How to use it :
 -----
--Check if your game is compatible ( see compatibility list ).
--Pad it to 32Mb with the tools if needed.
--Flash your SOP44 memory with the file.
--Solder the flash.
+-Check if your game is compatible ( see compatibility list ). 
+
+-Pad it to 32Mb with the tools if needed. 
+
+-Flash your SOP44 memory with the file. 
+
+-Solder the flash. 
+
 -Enjoy :).
 
 Where to buy it :
