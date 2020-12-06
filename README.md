@@ -24,7 +24,11 @@ Cartridge supported :
     
     Classic 32Mb cartridge ( no RAM  )
     No EEPROM support Yet   
-    
+     
+Compatible & Tested Memory :
+-----
+    Macronix MX29L3211 
+      
 How to use it :
 -----
 -Check if your game is compatible ( see compatibility list ). 
