@@ -1,7 +1,10 @@
 # WonderSwan-Classic
 Open Source PCB clone of WonderSwan PTE-0012A
 
-![Swan_pcb](https://github.com/X-death25/X-Flash/blob/main/gfx/1607079401089.JPEG)
+![Swan_pcb1](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/WS_Classic.PNG)
+![Swan_pcb2](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/WS_Classic_02.jpg)
+![Swan_pcb3](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/WS_Classic_03.jpg)
+![Swan_pcb4](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/WS_Classic_04.jpg)
 
 What is it ?
 -----
