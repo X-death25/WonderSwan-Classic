@@ -16,7 +16,7 @@ Product Feature :
 -----
 
     Support ROM up to 32Mb 
-    CPLD clone of Bandai 2001
+    CPLD clone of Bandai 2001 based on famous EPM240T100C5
     Can be Rewritable with third party adapter ( Sanni Cart Reaer or your own flasher )
     Open Source Hardware & PCB
 
