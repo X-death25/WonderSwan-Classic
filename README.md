@@ -48,9 +48,9 @@ You can build it your self or buy me a ready to use cartridge
 Special Thanks :
 -----
 
-Zerosquare
-Godzil
-Mellott124
-Up-n-atom
+Zerosquare,
+Godzil,
+Mellott124,
+Up-n-atom,
 RedFromNecstasy
 
