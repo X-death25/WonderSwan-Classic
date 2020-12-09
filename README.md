@@ -31,7 +31,7 @@ Compatible & Tested Memory :
       
 How to use it :
 -----
--Check if your game is compatible ( see compatibility list ). 
+-Check if your game is compatible ( see compatibility list and filter by NO to SRAM as Extra RAM ). 
 
 -Pad it to 32Mb with the tools if needed. 
 
