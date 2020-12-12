@@ -5,6 +5,7 @@ Open Source PCB clone of WonderSwan PTE-0012A
 ![Swan_pcb2](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/WS_Classic_02.jpg)
 ![Swan_pcb3](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/DSC_0121.png)
 ![Swan_pcb4](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/Dsc_0118.jpg)
+![Swan_pcb5](https://github.com/X-death25/WonderSwan-Classic/blob/main/gfx/DSC_0124.png)
 
 What is it ?
 -----
